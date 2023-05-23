@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Pelicula_1">La toalla del mojado</string>
+    <string name="Pelicula_2">El mojado sin toalla</string>
+    <string name="Pelicula_3">La toalla sin mojado</string>
+    <string name="Pelicula_4">Mi papá es mojado</string>
+    <string name="Pelicula_5">Me han mojado</string>
+</resources>

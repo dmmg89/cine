@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cine</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeMessage">Bienvenid@ seas a nuestra plataforma de compra de boletos y alimentos para tu película, esperamos que tu experiencia sea agradable.\n Agradecemos tu preferencia</string>
+</resources>

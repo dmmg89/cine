@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item android:title="Peliculas"
+            android:id="@+id/moviesBottom"
+            android:icon="@drawable/baseline_local_movies_24"/>
+        <item android:title="Alimentos"
+            android:id="@+id/foodBottom"
+            android:icon="@drawable/baseline_fastfood_24"/>
+        <item android:title="Ticket"
+            android:id="@+id/receiptBottom"
+            android:icon="@drawable/baseline_receipt_24"/>
+
+
+
+
+</menu>
